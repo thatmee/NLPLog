@@ -4,7 +4,7 @@ Repository for the paper: NLPLog: Comprehend Log after Ascending Dimension with 
 
 ## Framework
 
-<p align="center"><img src="docs/images/overview.png" width="502"><br>Overview of NLPLog</p>
+<p align="center"><img src="docs/images/overview.png" width="750"><br>Overview of NLPLog</p>
 
 ## Data and Models
 
